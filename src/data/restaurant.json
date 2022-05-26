@@ -1,0 +1,132 @@
+[
+    {
+        "id":1,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+        "name":"Chaitanya Parathas",
+        "category":["North India"," Punjabi", "Chinese", "Thalis", "Combo", "Beverages"],
+        "rating":"4.3",
+        "deliveryTimings":"33 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":2,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name":"MH 12 Pav Bhaji",
+        "category":["Snacks", "Pizza", "Beverages", "Steet Food"],
+        "rating":"4.0",
+        "deliveryTimings":"25 MINS",
+        "card_payment":true,
+        "cash_payment":false,
+        "costForTwo":250,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":3,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name":"Lunch Box",
+        "category":["North India", "Punjabi", "Combo", "Biryani", "Healthy Food", "Jain", "Thalis"],
+        "rating":"4.2",
+        "deliveryTimings":"31 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":4,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name":"The Hungry Hippe",
+        "category":["Chinese", "Italian", "Thai"],
+        "rating":"2.0",
+        "deliveryTimings":"38 MINS",
+        "card_payment":true,
+        "cash_payment":false,
+        "costForTwo":500,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":5,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name":"Ovenstory Pizzas",
+        "category":[" Pizza"],
+        "rating":"4.1",
+        "deliveryTimings":"33 MINS",
+        "card_payment":true,
+        "cash_payment":false,
+        "costForTwo":600,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":6,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name":"haitanya Parathas",
+        "category":["North India"," Punjabi", "Chinese", "Thalis", "Combo", "Beverages"],
+        "rating":"4.3",
+        "deliveryTimings":"33 MINS",
+        "card_payment":true,
+        "cash_payment":false,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":7,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name":"Starbucks Coffee",
+        "category":["Beverages", "Ice Cream"],
+        "rating":"4.3",
+        "deliveryTimings":"38 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":400,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":8,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+        "name":"haitanya Parathas",
+        "category":["North India"," Punjabi", "Chinese", "Thalis", "Combo", "Beverages"],
+        "rating":"4.3",
+        "deliveryTimings":"33 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":9,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant9.jpeg",
+        "name":"haitanya Parathas",
+        "category":["North India"," Punjabi", "Chinese", "Thalis", "Combo", "Beverages"],
+        "rating":"4.3",
+        "deliveryTimings":"33 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    },
+    {
+        "id":10,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant10.jpeg",
+        "name":"haitanya Parathas",
+        "category":["North India"," Punjabi", "Chinese", "Thalis", "Combo", "Beverages"],
+        "rating":"4.3",
+        "deliveryTimings":"33 MINS",
+        "card_payment":false,
+        "cash_payment":true,
+        "costForTwo":200,
+        "offer":["20% off", "Use TRYNEW"]
+
+    }
+]
